@@ -1,6 +1,5 @@
-import { ThirdwebClient } from "thirdweb"
 import { PayEmbed } from "thirdweb/react"
-import { client } from "../client"
+import { client } from "../../client"
 
 export default function BuyCryptoExample() {
     return (
